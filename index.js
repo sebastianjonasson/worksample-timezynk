@@ -1,4 +1,3 @@
-//Tog hjälp av stack overflow/momentjs för hjälp av duration parsningen.
 Date.prototype.setISODuration = function (input) {
   var ISODurationRegex = /P((([0-9]*\.?[0-9]*)Y)?(([0-9]*\.?[0-9]*)M)?(([0-9]*\.?[0-9]*)W)?(([0-9]*\.?[0-9]*)D)?)?(T(([0-9]*\.?[0-9]*)H)?(([0-9]*\.?[0-9]*)M)?(([0-9]*\.?[0-9]*)S)?)?/
   
