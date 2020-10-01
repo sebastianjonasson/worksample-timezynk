@@ -6,7 +6,7 @@
 💼 Got employed? Yes  
 
 ## Assignment description
-Complete the javascript code below so that it prints the start and end time of the interview. The program should be able to run either directly in the browser console or in Node.JS and the dates should be formatted as "yyyy-MM-dd at HH: MM to at HH: MM".
+Complete the javascript code below so that it prints the start and end time of the interview. The program should be able to run either directly in the browser console or in Node.JS and the dates should be formatted as "yyyy-MM-dd kl HH:MM till kl HH:MM".
 
 
 Programmet som ska kompletteras:
