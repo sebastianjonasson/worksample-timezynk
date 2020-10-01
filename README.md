@@ -9,7 +9,7 @@
 Complete the javascript code below so that it prints the start and end time of the interview. The program should be able to run either directly in the browser console or in Node.JS and the dates should be formatted as "yyyy-MM-dd kl HH:MM till kl HH:MM".
 
 
-Programmet som ska kompletteras:
+The program to be supplemented:
 
 ```javascript
 /**
